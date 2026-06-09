@@ -29,6 +29,13 @@ chatbots, voice assistants, and email/workflow automation — with a focus on
 | **[dsgvo-chatbot-engine](https://github.com/ilutvasilica/dsgvo-chatbot-engine)** | Multi-tenant, EU-hosted chatbot engine with RAG + lead capture (Sheets + email). One deployment serves many clients. |
 | **[daily-encouragement-bot](https://github.com/ilutvasilica/daily-encouragement-bot)** | Zero-dependency Node automation: an AI-generated daily email via Mistral + Resend, with graceful fallback. |
 
+### Live demos
+
+- 🌐 **[ainovu.agency](https://ainovu.agency)** — agency site with website chat + "Anna" voice assistant
+- 🛹 **[Rollbrett Salzburg](https://rollbrett-demo-public.vercel.app)** — chatbot demo for a local skate shop
+- 💇 **[BAO Hairstudio](https://bao-hairstudio-demo.vercel.app)** — booking/FAQ chatbot demo for a salon
+- 🧴 **[Interactive beauty avatar](https://avatar-engine-ten.vercel.app/chichakli.html)** — click-to-talk avatar with RAG knowledge
+
 ---
 
 💬 Languages: Romanian (native) · German (C1) · English (C1)
