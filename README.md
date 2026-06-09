@@ -26,8 +26,8 @@ chatbots, voice assistants, and email/workflow automation — with a focus on
 
 | Project | What it is |
 |---|---|
-| **dsgvo-chatbot-engine** | Multi-tenant, EU-hosted chatbot engine with RAG + lead capture (Sheets + email). One deployment serves many clients. |
-| **ai-newsletter-pipeline** | End-to-end LLM content pipeline: research → outline → draft → critique → HTML → human approval. |
+| **[dsgvo-chatbot-engine](https://github.com/ilutvasilica/dsgvo-chatbot-engine)** | Multi-tenant, EU-hosted chatbot engine with RAG + lead capture (Sheets + email). One deployment serves many clients. |
+| **[daily-encouragement-bot](https://github.com/ilutvasilica/daily-encouragement-bot)** | Zero-dependency Node automation: an AI-generated daily email via Mistral + Resend, with graceful fallback. |
 
 ---
 
